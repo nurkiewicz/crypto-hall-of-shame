@@ -34,6 +34,13 @@
 | 
 | link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
 
+| 2017-11-08
+| ETH
+| "_More than $300m of cryptocurrency has been [...] effectively destroyed by accident._"
+| $300M
+| link:https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether[
+'$300m in cryptocurrency' accidentally lost forever due to bug]
+
 | 2011-06-19
 | BTC
 | "_Mt. Gox exchange was hacked, most likely as a result of a compromised computer belonging to an auditor of the company_"
