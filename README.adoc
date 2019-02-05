@@ -22,9 +22,14 @@
 | $6M
 | link:https://ethereumworldnews.com/maplechange-crypto-exchange-hacked-for-913-bitcoin-btc-exit-scam-likely/[MapleChange Crypto Exchange Hacked For Bitcoin (BTC)]
 
-
 | 2018-09-14
 | 
 | "_Japanese cryptocurrency exchange Zaif [...] was hacked on September 14th during a two-hour time frame_"
 | 
 | link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
+
+| 2011-06-19
+| BTC
+| "_Mt. Gox exchange was hacked, most likely as a result of a compromised computer belonging to an auditor of the company_"
+| €460M
+| link:https://blockonomi.com/mt-gox-hack/[The History of the Mt Gox Hack: Bitcoin’s Biggest Heist]
