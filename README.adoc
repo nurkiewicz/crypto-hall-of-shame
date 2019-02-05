@@ -37,6 +37,12 @@ ____
 | $60M
 | link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
 
+| 2018-06-10
+|
+| "_Coinrail, a cryptocurrency exchange based in South Korea, said [...] its platform has been hacked, [and] lost cryptocurrencies totaling as much as $40 million in the attack._"
+| $40M
+| link:https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos[Coinrail Exchange Hacked, Loses Possibly $40 Million in Cryptos]
+
 | 2018-04-08
 | ICO
 | "_Both ICOs have been classified as multi-level marketing scams. iFan was advertised a social media platform for celebrities [...] Meanwhile Pincoin was promising 40 percent monthly returns on investments made_"
