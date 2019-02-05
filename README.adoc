@@ -6,13 +6,13 @@
 
 | 2019-02-04
 | 
-| "_in the wake of the sudden death of its founder and chief executive in December and missing cryptocurrency worth roughly $190 million._"
+| "_sudden death of its founder [...] in December and missing cryptocurrency worth roughly $190 million._" (list private key)
 | $190M
 | link:https://www.cbc.ca/news/business/quadrigacx-cryptocurrency-1.5005236[Canadian cryptocurrency exchange QuadrigaCX seeks creditor protection after founder's death]
 
 | 2019-01-07
 | ETC
-| Successful 51% attack
+| "_An unknown perpetrator essentially rolled back and altered transactions on the network._"
 |
 | link:https://qz.com/1516994/ethereum-classic-got-hit-by-a-51-attack/[Ethereum Classic is under attack]
 
