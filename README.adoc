@@ -12,7 +12,7 @@
 
 | 2019-02-04
 | 
-| "_sudden death of its founder [...] in December and missing cryptocurrency worth roughly $190 million._" (list private key)
+| "_sudden death of its founder [...] in December and missing cryptocurrency worth roughly $190 million._" (lost private key)
 | $190M
 | link:https://www.cbc.ca/news/business/quadrigacx-cryptocurrency-1.5005236[Canadian cryptocurrency exchange QuadrigaCX seeks creditor protection after founder's death]
 
