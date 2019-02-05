@@ -7,7 +7,7 @@ ____
 By July 2019, the bitcoin network will require more electricity than the entire United States currently uses. By February 2020, it will use as much electricity as the entire world does today.
 ____
 
----
+Pull requests with more events, sources and corrections are welcome!
 
 [%header]
 |===
