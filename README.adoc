@@ -1,3 +1,5 @@
+# Curated list of scams, hacks and fails of cryptocurrencies
+
 [%header]
 |===
 | Date | Crypto | Event | Sources
