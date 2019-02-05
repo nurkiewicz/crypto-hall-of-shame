@@ -35,9 +35,3 @@
 | link:https://blockonomi.com/mt-gox-hack/[The History of the Mt Gox Hack: Bitcoin’s Biggest Heist]
 
 |===
-
-# TODO sources:
-
-* https://medium.com/@MikeBacina/1b-lost-the-5-biggest-cryptocurrency-fails-of-2017-9862131e2bf7
-* https://ethereumworldnews.com/more-than-1000-cryptocurrency-projects-have-failed-in-2018/
-* https://bitcoinist.com/cryptocurrency-failures-all-time/
