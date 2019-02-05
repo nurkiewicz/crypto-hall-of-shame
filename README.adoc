@@ -2,19 +2,29 @@
 
 [%header]
 |===
-| Date | Crypto | Event | Sources
+| Date | Crypto | Event | Amount $ | Sources
 
 | 2019-02-04
 | 
 | Missing cryptocurrency worth roughly $190 million after the death of QuadrigaCX's founder and CEO who was the only one holding the private wallet key 
+| $190M
 | link:https://www.cbc.ca/news/business/quadrigacx-cryptocurrency-1.5005236[Canadian cryptocurrency exchange QuadrigaCX seeks creditor protection after founder's death]
 
 | 2019-01-07
 | ETC
 | Successful 51% attack
+|
 | link:https://qz.com/1516994/ethereum-classic-got-hit-by-a-51-attack/[Ethereum Classic is under attack]
 
-| 2018-09-20
+| 2018-10-20
+| BTC
+| "_MapleChange decided that it would be unable to pay its users back_"
+| $6M
+| link:https://ethereumworldnews.com/maplechange-crypto-exchange-hacked-for-913-bitcoin-btc-exit-scam-likely/[MapleChange Crypto Exchange Hacked For Bitcoin (BTC)]
+
+
+| 2018-09-14
 | 
 | "_Japanese cryptocurrency exchange Zaif [...] was hacked on September 14th during a two-hour time frame_"
+| 
 | link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
