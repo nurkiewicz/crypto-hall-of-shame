@@ -31,7 +31,7 @@
 | 2018-09-14
 | 
 | "_Japanese cryptocurrency exchange Zaif [...] was hacked on September 14th during a two-hour time frame_"
-| 
+| $60M
 | link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
 
 | 2018-04-08
