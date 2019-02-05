@@ -22,7 +22,7 @@ ____
 | 2019-01-07
 | ETC
 | "_An unknown perpetrator essentially rolled back and altered transactions on the network._"
-|
+| %500k
 | link:https://qz.com/1516994/ethereum-classic-got-hit-by-a-51-attack/[Ethereum Classic is under attack]
 
 | 2018-10-20
