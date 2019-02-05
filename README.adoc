@@ -2,7 +2,7 @@
 
 [%header]
 |===
-| Date | Crypto | Event | Amount $ | Sources
+| Date | Crypto | Event | Amount | Sources
 
 | 2019-02-04
 | 
