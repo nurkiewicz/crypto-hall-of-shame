@@ -2,7 +2,7 @@
 
 [%header]
 |===
-| Date | Crypto | Event | Amount | Sources
+| Date | Crypto | Event | Lost | Sources
 
 | 2019-07
 | BTC
