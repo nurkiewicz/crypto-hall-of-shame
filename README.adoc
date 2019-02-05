@@ -41,6 +41,18 @@
 | link:https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether[
 '$300m in cryptocurrency' accidentally lost forever due to bug]
 
+| 2014-03-04
+| BTC
+| The hacker discovered that if you place several withdrawals all in practically the same instant [...] will result in a negative balance, but valid insertions into the database [...] This could not have happened if withdrawal requests were processed sequentially instead of simultaneously.
+| 
+| link:https://bitcointalk.org/index.php?topic=499580[All deposits, withdrawals, and markets are functioning normally. No further BTC will be deducted from anyone's balance.]
+
+| 2014-03-03
+| BTC
+| "_someone allegedly hacked in and made off with 896 BTC in the hot wallet. [...] The attacker [...] By sending thousands of simultaneous requests [...] was able to "move" coins from one user account to another until the sending account was overdrawn_"
+| $600k
+| link:http://hackingdistributed.com/2014/04/06/another-one-bites-the-dust-flexcoin/[NoSQL Meets Bitcoin and Brings Down Two Exchanges: The Story of Flexcoin and Poloniex]
+
 | 2011-06-19
 | BTC
 | "_Mt. Gox exchange was hacked, most likely as a result of a compromised computer belonging to an auditor of the company_"
