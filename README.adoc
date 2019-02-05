@@ -1,0 +1,8 @@
+[%header]
+|===
+| Date | Cryptocurrency | Event | Sources
+
+| 2019-02-04
+| 
+| Missing cryptocurrency worth roughly $190 million after the death of QuadrigaCX's founder and CEO who was the only one holding the private wallet key 
+| https://www.cbc.ca/news/business/quadrigacx-cryptocurrency-1.5005236
