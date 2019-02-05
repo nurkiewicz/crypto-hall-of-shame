@@ -34,6 +34,12 @@
 | 
 | link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
 
+| 2018-04-08
+| ICO
+| "_Both ICOs have been classified as multi-level marketing scams. iFan was advertised a social media platform for celebrities [...] Meanwhile Pincoin was promising 40 percent monthly returns on investments made_"
+| $660M
+| link:https://cointelegraph.com/news/unpacking-the-5-biggest-cryptocurrency-scams[Unpacking the 5 Biggest Cryptocurrency Scams]
+
 | 2017-11-08
 | ETH
 | "_More than $300m of cryptocurrency has been [...] effectively destroyed by accident._"
