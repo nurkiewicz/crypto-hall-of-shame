@@ -41,6 +41,12 @@
 | link:https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether[
 '$300m in cryptocurrency' accidentally lost forever due to bug]
 
+| 2016-06-18
+| ETH
+| "_The hacker was able to get the DAO smart contract to return Ether multiple times before it could update its own balance_"
+| $70M
+| link:https://coincodex.com/article/50/the-dao-hack-what-happened-and-what-followed/[The DAO hack - what happened and what followed?]
+
 | 2014-03-04
 | BTC
 | The hacker discovered that if you place several withdrawals all in practically the same instant [...] will result in a negative balance, but valid insertions into the database [...] This could not have happened if withdrawal requests were processed sequentially instead of simultaneously.
