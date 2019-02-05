@@ -1,6 +1,6 @@
 [%header]
 |===
-| Date | Cryptocurrency | Event | Sources
+| Date | Crypto | Event | Sources
 
 | 2019-02-04
 | 
@@ -11,3 +11,8 @@
 | ETC
 | Successful 51% attack
 | link:https://qz.com/1516994/ethereum-classic-got-hit-by-a-51-attack/[Ethereum Classic is under attack]
+
+| 2018-09-20
+| 
+| "_Japanese cryptocurrency exchange Zaif [...] was hacked on September 14th during a two-hour time frame_"
+| link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
