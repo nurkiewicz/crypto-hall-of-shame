@@ -15,6 +15,12 @@ Pull requests with more events, sources and corrections are welcome!
 |===
 | Date | Crypto | Event | Lost | Sources
 
+| 2019-04-25
+| 
+| "_New York’s attorney general accused the owners of a prominent exchange, Bitfinex, of using illicit transactions to mask $850 million in missing funds._"
+| $850M
+| link:https://fortune.com/2019/04/25/bitfinex-tether-bitcoin/[Bitcoin Tumbles After Officials Allege $850 Million Fraud]
+
 | 2019-03-06
 | 
 | "_Investigators, who have secured his laptop and other devices, have revealed the money is gone._"
