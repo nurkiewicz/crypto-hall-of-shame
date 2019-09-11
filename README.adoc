@@ -15,6 +15,12 @@ Pull requests with more events, sources and corrections are welcome!
 |===
 | Date | Crypto | Event | Lost | Sources
 
+| 2019-03-06
+| 
+| "_Investigators, who have secured his laptop and other devices, have revealed the money is gone._"
+| $190M
+| link:https://markets.businessinsider.com/currencies/news/crypto-ceo-died-with-passwords-to-137-million-but-the-money-is-gone-2019-3-1028009684[Experts finally tracked down the digital wallets of the crypto CEO who died with sole access to millions. They say the money's gone]
+
 | 2019-02-04
 | 
 | "_sudden death of its founder [...] in December and missing cryptocurrency worth roughly $190 million._" (lost private key)
