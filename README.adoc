@@ -90,7 +90,7 @@ Pull requests with more events, sources and corrections are welcome!
 
 | 2010-08-15
 | BTC
-| "_an unknown hacker nearly destroyed Bitcoin. The hacker generated 184.467 billion Bitcoin out of thin air. [...] If this hack hadn’t been rectified, Bitcoin would likely have died then and there, which would mean the entire crypto space as we know it would not exist. _"
+| "_an unknown hacker nearly destroyed Bitcoin. The hacker generated 184.467 billion Bitcoin out of thin air. [...] If this hack hadn’t been rectified, Bitcoin would likely have died then and there, which would mean the entire crypto space as we know it would not exist_"
 | 
 | link:https://hackernoon.com/bitcoins-biggest-hack-in-history-184-4-ded46310d4ef[Bitcoin’s Biggest Hack In History: 184.4 Billion Bitcoin from Thin Air]
 
