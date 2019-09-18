@@ -66,6 +66,11 @@ Pull requests with more events, sources and corrections are welcome!
 | link:https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether[
 '$300m in cryptocurrency' accidentally lost forever due to bug]
 
+| 2016-08-03
+| "_More than $60m worth of bitcoin was stolen from one of the world’s largest digital currency exchanges yesterday, and nearly 24 hours later, the event is still shrouded in mystery._"
+| $66M
+| link:https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know[The Bitfinex Bitcoin Hack: What We Know (And Don’t Know)]
+
 | 2016-06-18
 | "_The hacker was able to get the DAO smart contract to return Ether multiple times before it could update its own balance_"
 | $70M
