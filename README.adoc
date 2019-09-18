@@ -13,95 +13,80 @@ Pull requests with more events, sources and corrections are welcome!
 
 [%header]
 |===
-| Date | Crypto | Event | Lost | Sources
+| Date | Event | Lost | Sources
 
 | 2019-08-05
-| 
 | "_Cryptocurrency trading hub Binance [...] lost about 7,000 Bitcoins (around $40 million) to hackers after its so-called “hot wallet,” i.e. one connected to the internet and used to process transactions, was breached_"
 | $40M
 | link:https://gizmodo.com/one-of-the-worlds-largest-crypto-exchanges-binance-ha-1834600280[One of the World's Largest Crypto Exchanges, Binance, Hacked to the Tune of $40 Million]
 
 | 2019-07-25
-| 
 | "_New York’s attorney general accused the owners of a prominent exchange, Bitfinex, of using illicit transactions to mask $850 million in missing funds._"
 | $850M
 | link:https://fortune.com/2019/04/25/bitfinex-tether-bitcoin/[Bitcoin Tumbles After Officials Allege $850 Million Fraud]
 
 | 2019-03-06
-| 
 | "_Investigators, who have secured his laptop and other devices, have revealed the money is gone._"
 | $190M
 | link:https://markets.businessinsider.com/currencies/news/crypto-ceo-died-with-passwords-to-137-million-but-the-money-is-gone-2019-3-1028009684[Experts finally tracked down the digital wallets of the crypto CEO who died with sole access to millions. They say the money's gone]
 
 | 2019-02-04
-| 
 | "_sudden death of its founder [...] in December and missing cryptocurrency worth roughly $190 million._" (lost private key)
 | $190M
 | link:https://www.cbc.ca/news/business/quadrigacx-cryptocurrency-1.5005236[Canadian cryptocurrency exchange QuadrigaCX seeks creditor protection after founder's death]
 
 | 2019-01-07
-| ETC
 | "_An unknown perpetrator essentially rolled back and altered transactions on the network._"
 | $500k
 | link:https://qz.com/1516994/ethereum-classic-got-hit-by-a-51-attack/[Ethereum Classic is under attack]
 
 | 2018-10-20
-| BTC
 | "_MapleChange decided that it would be unable to pay its users back_"
 | $6M
 | link:https://ethereumworldnews.com/maplechange-crypto-exchange-hacked-for-913-bitcoin-btc-exit-scam-likely/[MapleChange Crypto Exchange Hacked For Bitcoin (BTC)]
 
 | 2018-09-14
-| 
 | "_Japanese cryptocurrency exchange Zaif [...] was hacked on September 14th during a two-hour time frame_"
 | $60M
 | link:https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
 
 | 2018-06-10
-|
 | "_Coinrail, a cryptocurrency exchange based in South Korea, said [...] its platform has been hacked, [and] lost cryptocurrencies totaling as much as $40 million in the attack._"
 | $40M
 | link:https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos[Coinrail Exchange Hacked, Loses Possibly $40 Million in Cryptos]
 
 | 2018-04-08
-| ICO
 | "_Both ICOs have been classified as multi-level marketing scams. iFan was advertised a social media platform for celebrities [...] Meanwhile Pincoin was promising 40 percent monthly returns on investments made_"
 | $660M
 | link:https://cointelegraph.com/news/unpacking-the-5-biggest-cryptocurrency-scams[Unpacking the 5 Biggest Cryptocurrency Scams]
 
 | 2017-11-08
-| ETH
 | "_More than $300m of cryptocurrency has been [...] effectively destroyed by accident._"
 | $300M
 | link:https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether[
 '$300m in cryptocurrency' accidentally lost forever due to bug]
 
 | 2016-06-18
-| ETH
 | "_The hacker was able to get the DAO smart contract to return Ether multiple times before it could update its own balance_"
 | $70M
 | link:https://coincodex.com/article/50/the-dao-hack-what-happened-and-what-followed/[The DAO hack - what happened and what followed?]
 
 | 2014-03-04
-| BTC
 | The hacker discovered that if you place several withdrawals all in practically the same instant [...] will result in a negative balance, but valid insertions into the database [...] This could not have happened if withdrawal requests were processed sequentially instead of simultaneously.
 | 
 | link:https://bitcointalk.org/index.php?topic=499580[All deposits, withdrawals, and markets are functioning normally. No further BTC will be deducted from anyone's balance.]
 
 | 2014-03-03
-| BTC
 | "_someone allegedly hacked in and made off with 896 BTC in the hot wallet. [...] The attacker [...] By sending thousands of simultaneous requests [...] was able to "move" coins from one user account to another until the sending account was overdrawn_"
 | $600k
 | link:http://hackingdistributed.com/2014/04/06/another-one-bites-the-dust-flexcoin/[NoSQL Meets Bitcoin and Brings Down Two Exchanges: The Story of Flexcoin and Poloniex]
 
 | 2011-06-19
-| BTC
 | "_Mt. Gox exchange was hacked, most likely as a result of a compromised computer belonging to an auditor of the company_"
 | €460M
 | link:https://blockonomi.com/mt-gox-hack/[The History of the Mt Gox Hack: Bitcoin’s Biggest Heist]
 
 | 2010-08-15
-| BTC
 | "_an unknown hacker nearly destroyed Bitcoin. The hacker generated 184.467 billion Bitcoin out of thin air. [...] If this hack hadn’t been rectified, Bitcoin would likely have died then and there, which would mean the entire crypto space as we know it would not exist_"
 | 
 | link:https://hackernoon.com/bitcoins-biggest-hack-in-history-184-4-ded46310d4ef[Bitcoin’s Biggest Hack In History: 184.4 Billion Bitcoin from Thin Air]
