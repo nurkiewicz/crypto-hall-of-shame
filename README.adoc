@@ -79,10 +79,9 @@ link:https://cointelegraph.com/news/unpacking-the-5-biggest-cryptocurrency-scams
 | 2017-11-08
 | "_More than $300m of cryptocurrency has been [...] effectively destroyed by accident._"
 
-link:https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether[
+link:https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether['$300m in cryptocurrency' accidentally lost forever due to bug]
 | $300M
 
-'$300m in cryptocurrency' accidentally lost forever due to bug]
 
 | 2016-08-03
 | "_More than $60m worth of bitcoin was stolen from one of the world’s largest digital currency exchanges yesterday, and nearly 24 hours later, the event is still shrouded in mystery._"
