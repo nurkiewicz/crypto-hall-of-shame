@@ -1,14 +1,5 @@
 # Curated list of scams, hacks and fails of cryptocurrencies
 
-Biggest fail ever: 
-
-[quote, Eric Holthaus, 'https://www.wired.com/story/bitcoin-mining-guzzles-energyand-its-carbon-footprint-just-keeps-growing/[Bitcoin Mining Has a Massive Carbon Footprint]']
-____
-By July 2019, the bitcoin network will require more electricity than the entire United States currently uses. By February 2020, it will use as much electricity as the entire world does today.
-____
-
----
-
 Pull requests with more events, sources and corrections are welcome!
 
 [%header]
