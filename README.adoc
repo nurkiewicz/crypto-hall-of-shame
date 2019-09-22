@@ -13,6 +13,13 @@ link:https://gizmodo.com/one-of-the-worlds-largest-crypto-exchanges-binance-ha-1
 | $40M
 
 
+| 2019-08-02
+| "Police are investigating the death of Tobiasz Niemiro, a Polish entrepreneur and co-owner of cryptocurrency exchange Bitmarket, which closed on July 8 under suspicious circumstances. [...] More than 400 investors allegedly lost a total of 2300 bitcoin (worth approximately $23 million,)"
+
+link:https://finance.yahoo.com/news/co-owner-shuttered-polish-cryptocurrency-153633551.html[Co-owner of shuttered Polish crypto exchange Bitmarket found dead]
+| $23M
+
+
 | 2019-07-25
 | "_New York’s attorney general accused the owners of a prominent exchange, Bitfinex, of using illicit transactions to mask $850 million in missing funds._"
 
