@@ -7,6 +7,13 @@ Pull requests with more events, sources and corrections are welcome!
 | Date | Event | Lost
 
 | 2019-08-05
+| "_likely reason is that this unfortunate individual intended to send $2.6 million in ETH with $100 worth of fees, but accidentally switched the two fields_"
+
+link:https://decrypt.co/31830/someone-just-made-a-2-6-million-mistake-on-ethereum[Someone just made a $2.6 million mistake on Ethereum]
+| $2.6M
+
+
+| 2020-06-10
 | "_Cryptocurrency trading hub Binance [...] lost about 7,000 Bitcoins (around $40 million) to hackers after its so-called “hot wallet,” i.e. one connected to the internet and used to process transactions, was breached_"
 
 link:https://gizmodo.com/one-of-the-worlds-largest-crypto-exchanges-binance-ha-1834600280[One of the World's Largest Crypto Exchanges, Binance, Hacked to the Tune of $40 Million]
