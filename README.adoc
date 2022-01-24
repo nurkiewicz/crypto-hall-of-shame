@@ -33,6 +33,12 @@ link:https://finance.yahoo.com/news/co-owner-shuttered-polish-cryptocurrency-153
 link:https://fortune.com/2019/04/25/bitfinex-tether-bitcoin/[Bitcoin Tumbles After Officials Allege $850 Million Fraud]
 | $850M
 
+| 2019-03-29
+| "_South Korean crypto exchange Bithumb has had around $13 million in the EOS cryptocurrency stolen in a hack it suspects was an insider job_"
+
+link:https://www.coindesk.com/markets/2019/03/30/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job/[Crypto Exchange Bithumb Hacked for $13 Million in Suspected Insider Job]
+| $13M
+
 
 | 2019-03-06
 | "_Investigators, who have secured his laptop and other devices, have revealed the money is gone._"
