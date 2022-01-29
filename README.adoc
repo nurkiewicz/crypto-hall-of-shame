@@ -14,6 +14,12 @@ Pull requests with more events, sources and corrections are welcome!
 link:https://decrypt.co/31830/someone-just-made-a-2-6-million-mistake-on-ethereum[Someone just made a $2.6 million mistake on Ethereum]
 | $2.6M
 
+| 2020-01-27
+| "_Malicious cryptocurrency miners took control of Bitcoin Gold‘s blockchain recently to double-spend $72,000 worth of BTG. Bad actors assumed a majority of the network‘s processing power (hash rate) to re-organize the blockchain twice_"
+
+link:https://thenextweb.com/news/bitcoin-gold-51-percent-attack-blockchain-reorg-cryptocurrency-binance-exchange[Bitcoin Gold hit by 51% attacks, $72K in cryptocurrency double-spent]
+| $72K
+
 
 | 2019-08-05
 | "_Cryptocurrency trading hub Binance [...] lost about 7,000 Bitcoins (around $40 million) to hackers after its so-called “hot wallet,” i.e. one connected to the internet and used to process transactions, was breached_"
