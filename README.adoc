@@ -8,6 +8,12 @@ Pull requests with more events, sources and corrections are welcome!
 |===
 | Date | Event | Lost
 
+| 2020-08-13
+| "_It's not as if cryptocurrency investors couldn't have seen this coming. The project's GitHub repo states explicitly that there's been no audit of the code._"
+
+https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/[Single-line software bug causes fledgling YAM cryptocurrency to implode just two days after launch]
+| $525M
+
 | 2020-06-10
 | "_likely reason is that this unfortunate individual intended to send $2.6 million in ETH with $100 worth of fees, but accidentally switched the two fields_"
 
