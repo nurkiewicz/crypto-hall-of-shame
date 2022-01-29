@@ -1,3 +1,5 @@
+Motto: https://twitter.com/BenLaurie/status/1222136573980037121[_Because there's no way you could do that with a fucking database. Jesus._]
+
 # Curated list of scams, hacks and fails of cryptocurrencies
 
 Pull requests with more events, sources and corrections are welcome!
