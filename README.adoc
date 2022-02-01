@@ -12,8 +12,15 @@ Pull requests with more events, sources and corrections are welcome!
 | "_Russian-Swedish administrator behind that long-running anonymizing system and charged him with laundering hundreds of millions of dollars worth of bitcoins, much of which was sent to or from dark web drug markets_"
 
 https://www.wired.com/story/bitcoin-fog-dark-web-cryptocurrency-arrest/[Feds Arrest an Alleged $336M Bitcoin-Laundering Kingpin]
-
 | $336M
+
+
+| 2021-01-17
+| "_Massive electricity outages have led to the government burning "mazut" to keep the lights on around Tehran. Now, the regime have been pressured to admit the outages are connected to bitcoin mining_"
+
+https://twitter.com/ercwl/status/1350881938450608132[Dr. Vaezi a.k.a. "Dr Bitcorn"]
+|
+
 
 | 2020-08-13
 | "_It's not as if cryptocurrency investors couldn't have seen this coming. The project's GitHub repo states explicitly that there's been no audit of the code._"
