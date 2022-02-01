@@ -9,6 +9,14 @@ Pull requests with more events, sources and corrections are welcome!
 | Date | Event | Value
 
 
+
+| 2022-01-28
+| "_A threat actor has used an exploit to steal approximately $80 million from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations._"
+
+https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/[Qubit Finance platform hacked for $80 million worth of cryptocurrency]
+| $80M
+
+
 | 2022-01-18
 | "_The $15 million in ether (4,600 ETH) stolen from Singapore-based Crypto.com is currently being "mixed," or moved to obscure destinations making it harder to track, via Tornado Cash, an Ethereum mixer_"
 
