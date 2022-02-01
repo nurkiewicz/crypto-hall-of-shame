@@ -8,6 +8,14 @@ Pull requests with more events, sources and corrections are welcome!
 |===
 | Date | Event | Value
 
+
+| 2021-06-28
+| "_SafeDollar’s price—which was supposed to always be equal to $1 since it’s a stablecoin—has plummeted to zero, according to the protocol’s own website_"
+
+https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/[SafeDollar ‘stablecoin’ drops to $0 following $248,000 DeFi exploit on Polygon]
+| $248k
+
+
 | 2021-04-27
 | "_Russian-Swedish administrator behind that long-running anonymizing system and charged him with laundering hundreds of millions of dollars worth of bitcoins, much of which was sent to or from dark web drug markets_"
 
