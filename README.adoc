@@ -9,6 +9,13 @@ Pull requests with more events, sources and corrections are welcome!
 | Date | Event | Value
 
 
+| 2022-01-18
+| "_The $15 million in ether (4,600 ETH) stolen from Singapore-based Crypto.com is currently being "mixed," or moved to obscure destinations making it harder to track, via Tornado Cash, an Ethereum mixer_"
+
+https://www.coindesk.com/business/2022/01/18/cryptocoms-stolen-ether-being-laundered-via-tornado-cash/[Crypto.com’s Stolen Ether Being Mixed Through Tornado Cash]
+| $15M
+
+
 | 2021-06-28
 | "_SafeDollar’s price—which was supposed to always be equal to $1 since it’s a stablecoin—has plummeted to zero, according to the protocol’s own website_"
 
