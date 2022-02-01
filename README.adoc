@@ -6,7 +6,14 @@ Pull requests with more events, sources and corrections are welcome!
 
 [%header]
 |===
-| Date | Event | Lost
+| Date | Event | Value
+
+| 2021-04-27
+| "_Russian-Swedish administrator behind that long-running anonymizing system and charged him with laundering hundreds of millions of dollars worth of bitcoins, much of which was sent to or from dark web drug markets_"
+
+https://www.wired.com/story/bitcoin-fog-dark-web-cryptocurrency-arrest/[Feds Arrest an Alleged $336M Bitcoin-Laundering Kingpin]
+
+| $336M
 
 | 2020-08-13
 | "_It's not as if cryptocurrency investors couldn't have seen this coming. The project's GitHub repo states explicitly that there's been no audit of the code._"
