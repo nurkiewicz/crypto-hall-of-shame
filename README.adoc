@@ -24,6 +24,13 @@ https://www.coindesk.com/business/2022/01/18/cryptocoms-stolen-ether-being-laund
 | $15M
 
 
+| 2021-07-23
+| "_the platform was exploited for $8 million as the hacker was able to trick the network into thinking they had deposited a range of funds, when they hadn’t, and then somehow getting a refund_"
+
+https://www.theblockcrypto.com/post/112308/thorchain-suffers-8-million-loss-by-hacker-wanting-to-teach-lesson[Thorchain suffers $8 million loss by hacker wanting to 'teach lesson']
+| $8M
+
+
 | 2021-06-28
 | "_SafeDollar’s price—which was supposed to always be equal to $1 since it’s a stablecoin—has plummeted to zero, according to the protocol’s own website_"
 
