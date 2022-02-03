@@ -23,6 +23,13 @@ https://www.vice.com/en/article/5dg5xq/nft-collector-iloveponzi-loses-valuable-a
 | $700k
 
 
+| 2022-01-30
+| "_He sent ETH to the WETH contract, received WETH as expected. Then he wanted to do the reverse and sent WETH, but will not receive anything_"
+
+https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/[Did I just lose half a million dollars by sending WETH to WETH's contract address?]
+| $500k
+
+
 | 2022-01-28
 | "_A threat actor has used an exploit to steal approximately $80 million from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations._"
 
