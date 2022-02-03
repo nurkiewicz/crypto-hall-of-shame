@@ -24,6 +24,13 @@ https://www.coindesk.com/business/2022/01/18/cryptocoms-stolen-ether-being-laund
 | $15M
 
 
+| 2022-01-17
+| "_a bunch of cryptobros just spent €2.6 MILLION - 100x the asking price - for a book at auction in the mistaken belief that they would therefore own the copyright in it_"
+
+https://twitter.com/garybrannan/status/1482866885989478411[We won the auction for €2.66M]
+| $2.6M
+
+
 | 2021-07-23
 | "_the platform was exploited for $8 million as the hacker was able to trick the network into thinking they had deposited a range of funds, when they hadn’t, and then somehow getting a refund_"
 
