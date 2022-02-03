@@ -10,237 +10,237 @@ Pull requests with more events, sources and corrections are welcome!
 
 
 | 2022-02-02
-| "_Wormhole, one of the largest bridges between Solana and other blockchains, has been hacked for about $320 million, or 120,000 ether — making it the second largest DeFi hack to date_"
+| https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/[In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether]
 
-https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/[In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether]
+"_Wormhole, one of the largest bridges between Solana and other blockchains, has been hacked for about $320 million, or 120,000 ether — making it the second largest DeFi hack to date_"
 | $320M
 
 
 | 2022-02-01
-| "_Hackers tricked a collector of JPEGs depicting apes and mutants (also known as NFTs) to give them control of their digital art, and sold them for more than half a million dollars_"
+| https://www.vice.com/en/article/5dg5xq/nft-collector-iloveponzi-loses-valuable-ape-nfts-to-hackers-is-upset[NFT Collector 'ILovePonzi' Loses Valuable Ape NFTs to Hackers, Is Upset]
 
-https://www.vice.com/en/article/5dg5xq/nft-collector-iloveponzi-loses-valuable-ape-nfts-to-hackers-is-upset[NFT Collector 'ILovePonzi' Loses Valuable Ape NFTs to Hackers, Is Upset]
+"_Hackers tricked a collector of JPEGs depicting apes and mutants (also known as NFTs) to give them control of their digital art, and sold them for more than half a million dollars_"
 | $700k
 
 
 | 2022-01-30
-| "_He sent ETH to the WETH contract, received WETH as expected. Then he wanted to do the reverse and sent WETH, but will not receive anything_"
+| https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/[Did I just lose half a million dollars by sending WETH to WETH's contract address?]
 
-https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/[Did I just lose half a million dollars by sending WETH to WETH's contract address?]
+"_He sent ETH to the WETH contract, received WETH as expected. Then he wanted to do the reverse and sent WETH, but will not receive anything_"
 | $500k
 
 
 | 2022-01-28
-| "_A threat actor has used an exploit to steal approximately $80 million from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations._"
+| https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/[Qubit Finance platform hacked for $80 million worth of cryptocurrency]
 
-https://therecord.media/qubit-finance-platform-hacked-for-80-million-worth-of-cryptocurrency/[Qubit Finance platform hacked for $80 million worth of cryptocurrency]
+"_A threat actor has used an exploit to steal approximately $80 million from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations._"
 | $80M
 
 
 | 2022-01-18
-| "_The $15 million in ether (4,600 ETH) stolen from Singapore-based Crypto.com is currently being "mixed," or moved to obscure destinations making it harder to track, via Tornado Cash, an Ethereum mixer_"
+| https://www.coindesk.com/business/2022/01/18/cryptocoms-stolen-ether-being-laundered-via-tornado-cash/[Crypto.com’s Stolen Ether Being Mixed Through Tornado Cash]
 
-https://www.coindesk.com/business/2022/01/18/cryptocoms-stolen-ether-being-laundered-via-tornado-cash/[Crypto.com’s Stolen Ether Being Mixed Through Tornado Cash]
+"_The $15 million in ether (4,600 ETH) stolen from Singapore-based Crypto.com is currently being "mixed," or moved to obscure destinations making it harder to track, via Tornado Cash, an Ethereum mixer_"
 | $15M
 
 
 | 2022-01-17
-| "_a bunch of cryptobros just spent €2.6 MILLION - 100x the asking price - for a book at auction in the mistaken belief that they would therefore own the copyright in it_"
+| https://twitter.com/garybrannan/status/1482866885989478411[We won the auction for €2.66M]
 
-https://twitter.com/garybrannan/status/1482866885989478411[We won the auction for €2.66M]
+"_a bunch of cryptobros just spent €2.6 MILLION - 100x the asking price - for a book at auction in the mistaken belief that they would therefore own the copyright in it_"
 | $2.6M
 
 
 | 2021-12-05
-| "_Estimate loss of @BitMartExchange ~$100M_"
+| https://twitter.com/peckshield/status/1467302620000043013[Here is the list of the transferred-out assets and their amounts]
 
-https://twitter.com/peckshield/status/1467302620000043013[Here is the list of the transferred-out assets and their amounts]
+"_Estimate loss of @BitMartExchange ~$100M_"
 | $100M
 
 
 | 2021-08-11
-| "_Once the attack was discovered, Poly Network disclosed the incident to the public and asked for the help of the cryptocurrency community, begging mining platforms and exchanges to track the hacker’s movements and freeze their accounts_"
+| https://therecord.media/hacker-steals-600-million-from-poly-network-in-biggest-cryptocurrency-hack-ever/[Hacker steals $600 million from Poly Network in biggest ever cryptocurrency hack]
 
-https://therecord.media/hacker-steals-600-million-from-poly-network-in-biggest-cryptocurrency-hack-ever/[Hacker steals $600 million from Poly Network in biggest ever cryptocurrency hack]
+"_Once the attack was discovered, Poly Network disclosed the incident to the public and asked for the help of the cryptocurrency community, begging mining platforms and exchanges to track the hacker’s movements and freeze their accounts_"
 | $600M
 
 
 | 2021-07-23
-| "_the platform was exploited for $8 million as the hacker was able to trick the network into thinking they had deposited a range of funds, when they hadn’t, and then somehow getting a refund_"
+| https://www.theblockcrypto.com/post/112308/thorchain-suffers-8-million-loss-by-hacker-wanting-to-teach-lesson[Thorchain suffers $8 million loss by hacker wanting to 'teach lesson']
 
-https://www.theblockcrypto.com/post/112308/thorchain-suffers-8-million-loss-by-hacker-wanting-to-teach-lesson[Thorchain suffers $8 million loss by hacker wanting to 'teach lesson']
+"_the platform was exploited for $8 million as the hacker was able to trick the network into thinking they had deposited a range of funds, when they hadn’t, and then somehow getting a refund_"
 | $8M
 
 
 | 2021-06-28
-| "_SafeDollar’s price—which was supposed to always be equal to $1 since it’s a stablecoin—has plummeted to zero, according to the protocol’s own website_"
+| https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/[SafeDollar ‘stablecoin’ drops to $0 following $248,000 DeFi exploit on Polygon]
 
-https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/[SafeDollar ‘stablecoin’ drops to $0 following $248,000 DeFi exploit on Polygon]
+"_SafeDollar’s price—which was supposed to always be equal to $1 since it’s a stablecoin—has plummeted to zero, according to the protocol’s own website_"
 | $248k
 
 
 | 2021-04-27
-| "_Russian-Swedish administrator behind that long-running anonymizing system and charged him with laundering hundreds of millions of dollars worth of bitcoins, much of which was sent to or from dark web drug markets_"
+| https://www.wired.com/story/bitcoin-fog-dark-web-cryptocurrency-arrest/[Feds Arrest an Alleged $336M Bitcoin-Laundering Kingpin]
 
-https://www.wired.com/story/bitcoin-fog-dark-web-cryptocurrency-arrest/[Feds Arrest an Alleged $336M Bitcoin-Laundering Kingpin]
+"_Russian-Swedish administrator behind that long-running anonymizing system and charged him with laundering hundreds of millions of dollars worth of bitcoins, much of which was sent to or from dark web drug markets_"
 | $336M
 
 
 | 2021-01-17
-| "_Massive electricity outages have led to the government burning "mazut" to keep the lights on around Tehran. Now, the regime have been pressured to admit the outages are connected to bitcoin mining_"
+| https://twitter.com/ercwl/status/1350881938450608132[Dr. Vaezi a.k.a. "Dr Bitcorn"]
 
-https://twitter.com/ercwl/status/1350881938450608132[Dr. Vaezi a.k.a. "Dr Bitcorn"]
+"_Massive electricity outages have led to the government burning "mazut" to keep the lights on around Tehran. Now, the regime have been pressured to admit the outages are connected to bitcoin mining_"
 |
 
 
 | 2020-09-03
-| "_things got sour for HotdogSwap, as the traders began pulling out, taking advantage of the fat price as early adopters which probably resulted in the nosediving of Hotdog token in price_"
+| https://www.cryptopolitan.com/defi-hotdog-token-drop-from-4000-to-1/[DeFi Hotdog token gets burnt, dropped from $4,000 to $1 within five minutes]
 
-https://www.cryptopolitan.com/defi-hotdog-token-drop-from-4000-to-1/[DeFi Hotdog token gets burnt, dropped from $4,000 to $1 within five minutes]
+"_things got sour for HotdogSwap, as the traders began pulling out, taking advantage of the fat price as early adopters which probably resulted in the nosediving of Hotdog token in price_"
 | 
 
 
 | 2020-08-13
-| "_It's not as if cryptocurrency investors couldn't have seen this coming. The project's GitHub repo states explicitly that there's been no audit of the code._"
+| https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/[Single-line software bug causes fledgling YAM cryptocurrency to implode just two days after launch]
 
-https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/[Single-line software bug causes fledgling YAM cryptocurrency to implode just two days after launch]
+"_It's not as if cryptocurrency investors couldn't have seen this coming. The project's GitHub repo states explicitly that there's been no audit of the code._"
 | $525M
 
 | 2020-06-10
-| "_likely reason is that this unfortunate individual intended to send $2.6 million in ETH with $100 worth of fees, but accidentally switched the two fields_"
+| https://decrypt.co/31830/someone-just-made-a-2-6-million-mistake-on-ethereum[Someone just made a $2.6 million mistake on Ethereum]
 
-https://decrypt.co/31830/someone-just-made-a-2-6-million-mistake-on-ethereum[Someone just made a $2.6 million mistake on Ethereum]
+"_likely reason is that this unfortunate individual intended to send $2.6 million in ETH with $100 worth of fees, but accidentally switched the two fields_"
 | $2.6M
 
 | 2020-01-27
-| "_Malicious cryptocurrency miners took control of Bitcoin Gold‘s blockchain recently to double-spend $72,000 worth of BTG. Bad actors assumed a majority of the network‘s processing power (hash rate) to re-organize the blockchain twice_"
+| https://thenextweb.com/news/bitcoin-gold-51-percent-attack-blockchain-reorg-cryptocurrency-binance-exchange[Bitcoin Gold hit by 51% attacks, $72K in cryptocurrency double-spent]
 
-https://thenextweb.com/news/bitcoin-gold-51-percent-attack-blockchain-reorg-cryptocurrency-binance-exchange[Bitcoin Gold hit by 51% attacks, $72K in cryptocurrency double-spent]
+"_Malicious cryptocurrency miners took control of Bitcoin Gold‘s blockchain recently to double-spend $72,000 worth of BTG. Bad actors assumed a majority of the network‘s processing power (hash rate) to re-organize the blockchain twice_"
 | $72K
 
 
 | 2019-08-05
-| "_Cryptocurrency trading hub Binance [...] lost about 7,000 Bitcoins (around $40 million) to hackers after its so-called “hot wallet,” i.e. one connected to the internet and used to process transactions, was breached_"
+| https://gizmodo.com/one-of-the-worlds-largest-crypto-exchanges-binance-ha-1834600280[One of the World's Largest Crypto Exchanges, Binance, Hacked to the Tune of $40 Million]
 
-https://gizmodo.com/one-of-the-worlds-largest-crypto-exchanges-binance-ha-1834600280[One of the World's Largest Crypto Exchanges, Binance, Hacked to the Tune of $40 Million]
+"_Cryptocurrency trading hub Binance [...] lost about 7,000 Bitcoins (around $40 million) to hackers after its so-called “hot wallet,” i.e. one connected to the internet and used to process transactions, was breached_"
 | $40M
 
 
 | 2019-08-02
-| "Police are investigating the death of Tobiasz Niemiro, a Polish entrepreneur and co-owner of cryptocurrency exchange Bitmarket, which closed on July 8 under suspicious circumstances. [...] More than 400 investors allegedly lost a total of 2300 bitcoin (worth approximately $23 million,)"
+| https://finance.yahoo.com/news/co-owner-shuttered-polish-cryptocurrency-153633551.html[Co-owner of shuttered Polish crypto exchange Bitmarket found dead]
 
-https://finance.yahoo.com/news/co-owner-shuttered-polish-cryptocurrency-153633551.html[Co-owner of shuttered Polish crypto exchange Bitmarket found dead]
+"Police are investigating the death of Tobiasz Niemiro, a Polish entrepreneur and co-owner of cryptocurrency exchange Bitmarket, which closed on July 8 under suspicious circumstances. [...] More than 400 investors allegedly lost a total of 2300 bitcoin (worth approximately $23 million,)"
 | $23M
 
 
 | 2019-07-25
-| "_New York’s attorney general accused the owners of a prominent exchange, Bitfinex, of using illicit transactions to mask $850 million in missing funds._"
+| https://fortune.com/2019/04/25/bitfinex-tether-bitcoin/[Bitcoin Tumbles After Officials Allege $850 Million Fraud]
 
-https://fortune.com/2019/04/25/bitfinex-tether-bitcoin/[Bitcoin Tumbles After Officials Allege $850 Million Fraud]
+"_New York’s attorney general accused the owners of a prominent exchange, Bitfinex, of using illicit transactions to mask $850 million in missing funds._"
 | $850M
 
 | 2019-03-29
-| "_South Korean crypto exchange Bithumb has had around $13 million in the EOS cryptocurrency stolen in a hack it suspects was an insider job_"
+| https://www.coindesk.com/markets/2019/03/30/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job/[Crypto Exchange Bithumb Hacked for $13 Million in Suspected Insider Job]
 
-https://www.coindesk.com/markets/2019/03/30/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job/[Crypto Exchange Bithumb Hacked for $13 Million in Suspected Insider Job]
+"_South Korean crypto exchange Bithumb has had around $13 million in the EOS cryptocurrency stolen in a hack it suspects was an insider job_"
 | $13M
 
 
 | 2019-03-06
-| "_Investigators, who have secured his laptop and other devices, have revealed the money is gone._"
+| https://markets.businessinsider.com/currencies/news/crypto-ceo-died-with-passwords-to-137-million-but-the-money-is-gone-2019-3-1028009684[Experts finally tracked down the digital wallets of the crypto CEO who died with sole access to millions. They say the money's gone]
 
-https://markets.businessinsider.com/currencies/news/crypto-ceo-died-with-passwords-to-137-million-but-the-money-is-gone-2019-3-1028009684[Experts finally tracked down the digital wallets of the crypto CEO who died with sole access to millions. They say the money's gone]
+"_Investigators, who have secured his laptop and other devices, have revealed the money is gone._"
 | $190M
 
 
 | 2019-02-04
-| "_sudden death of its founder [...] in December and missing cryptocurrency worth roughly $190 million._" (lost private key)
+| https://www.cbc.ca/news/business/quadrigacx-cryptocurrency-1.5005236[Canadian cryptocurrency exchange QuadrigaCX seeks creditor protection after founder's death]
 
-https://www.cbc.ca/news/business/quadrigacx-cryptocurrency-1.5005236[Canadian cryptocurrency exchange QuadrigaCX seeks creditor protection after founder's death]
+"_sudden death of its founder [...] in December and missing cryptocurrency worth roughly $190 million._" (lost private key)
 | $190M
 
 
 | 2019-01-07
-| "_An unknown perpetrator essentially rolled back and altered transactions on the network._"
+| https://qz.com/1516994/ethereum-classic-got-hit-by-a-51-attack/[Ethereum Classic is under attack]
 
-https://qz.com/1516994/ethereum-classic-got-hit-by-a-51-attack/[Ethereum Classic is under attack]
+"_An unknown perpetrator essentially rolled back and altered transactions on the network._"
 | $500k
 
 
 | 2018-10-20
-| "_MapleChange decided that it would be unable to pay its users back_"
+| https://ethereumworldnews.com/maplechange-crypto-exchange-hacked-for-913-bitcoin-btc-exit-scam-likely/[MapleChange Crypto Exchange Hacked For Bitcoin (BTC)]
 
-https://ethereumworldnews.com/maplechange-crypto-exchange-hacked-for-913-bitcoin-btc-exit-scam-likely/[MapleChange Crypto Exchange Hacked For Bitcoin (BTC)]
+"_MapleChange decided that it would be unable to pay its users back_"
 | $6M
 
 
 | 2018-09-14
-| "_Japanese cryptocurrency exchange Zaif [...] was hacked on September 14th during a two-hour time frame_"
+| https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
 
-https://www.theverge.com/2018/9/20/17882636/zaif-japanese-bitcoin-exchange-cryptocurrency-digital-wallet-60-million[Japanese bitcoin exchange is robbed of $60 million worth of cryptocurrency]
+"_Japanese cryptocurrency exchange Zaif [...] was hacked on September 14th during a two-hour time frame_"
 | $60M
 
 
 | 2018-06-10
-| "_Coinrail, a cryptocurrency exchange based in South Korea, said [...] its platform has been hacked, [and] lost cryptocurrencies totaling as much as $40 million in the attack._"
+| https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos[Coinrail Exchange Hacked, Loses Possibly $40 Million in Cryptos]
 
-https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos[Coinrail Exchange Hacked, Loses Possibly $40 Million in Cryptos]
+"_Coinrail, a cryptocurrency exchange based in South Korea, said [...] its platform has been hacked, [and] lost cryptocurrencies totaling as much as $40 million in the attack._"
 | $40M
 
 
 | 2018-04-08
-| "_Both ICOs have been classified as multi-level marketing scams. iFan was advertised a social media platform for celebrities [...] Meanwhile Pincoin was promising 40 percent monthly returns on investments made_"
+| https://cointelegraph.com/news/unpacking-the-5-biggest-cryptocurrency-scams[Unpacking the 5 Biggest Cryptocurrency Scams]
 
-https://cointelegraph.com/news/unpacking-the-5-biggest-cryptocurrency-scams[Unpacking the 5 Biggest Cryptocurrency Scams]
+"_Both ICOs have been classified as multi-level marketing scams. iFan was advertised a social media platform for celebrities [...] Meanwhile Pincoin was promising 40 percent monthly returns on investments made_"
 | $660M
 
 
 | 2017-11-08
-| "_More than $300m of cryptocurrency has been [...] effectively destroyed by accident._"
+| https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether['$300m in cryptocurrency' accidentally lost forever due to bug]
 
-https://www.theguardian.com/technology/2017/nov/08/cryptocurrency-300m-dollars-stolen-bug-ether['$300m in cryptocurrency' accidentally lost forever due to bug]
+"_More than $300m of cryptocurrency has been [...] effectively destroyed by accident._"
 | $300M
 
 
 | 2016-08-03
-| "_More than $60m worth of bitcoin was stolen from one of the world’s largest digital currency exchanges yesterday, and nearly 24 hours later, the event is still shrouded in mystery._"
+| https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know[The Bitfinex Bitcoin Hack: What We Know (And Don’t Know)]
 
-https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know[The Bitfinex Bitcoin Hack: What We Know (And Don’t Know)]
+"_More than $60m worth of bitcoin was stolen from one of the world’s largest digital currency exchanges yesterday, and nearly 24 hours later, the event is still shrouded in mystery._"
 | $66M
 
 
 | 2016-06-18
-| "_The hacker was able to get the DAO smart contract to return Ether multiple times before it could update its own balance_"
+| https://coincodex.com/article/50/the-dao-hack-what-happened-and-what-followed/[The DAO hack - what happened and what followed?]
 
-https://coincodex.com/article/50/the-dao-hack-what-happened-and-what-followed/[The DAO hack - what happened and what followed?]
+"_The hacker was able to get the DAO smart contract to return Ether multiple times before it could update its own balance_"
 | $70M
 
 
 | 2014-03-04
-| The hacker discovered that if you place several withdrawals all in practically the same instant [...] will result in a negative balance, but valid insertions into the database [...] This could not have happened if withdrawal requests were processed sequentially instead of simultaneously.
+| https://bitcointalk.org/index.php?topic=499580[All deposits, withdrawals, and markets are functioning normally. No further BTC will be deducted from anyone's balance.]
 
-https://bitcointalk.org/index.php?topic=499580[All deposits, withdrawals, and markets are functioning normally. No further BTC will be deducted from anyone's balance.]
+The hacker discovered that if you place several withdrawals all in practically the same instant [...] will result in a negative balance, but valid insertions into the database [...] This could not have happened if withdrawal requests were processed sequentially instead of simultaneously.
 | 
 
 
 | 2014-03-03
-| "_someone allegedly hacked in and made off with 896 BTC in the hot wallet. [...] The attacker [...] By sending thousands of simultaneous requests [...] was able to "move" coins from one user account to another until the sending account was overdrawn_"
+| http://hackingdistributed.com/2014/04/06/another-one-bites-the-dust-flexcoin/[NoSQL Meets Bitcoin and Brings Down Two Exchanges: The Story of Flexcoin and Poloniex]
 
-http://hackingdistributed.com/2014/04/06/another-one-bites-the-dust-flexcoin/[NoSQL Meets Bitcoin and Brings Down Two Exchanges: The Story of Flexcoin and Poloniex]
+"_someone allegedly hacked in and made off with 896 BTC in the hot wallet. [...] The attacker [...] By sending thousands of simultaneous requests [...] was able to "move" coins from one user account to another until the sending account was overdrawn_"
 | $600k
 
 
 | 2011-06-19
-| "_Mt. Gox exchange was hacked, most likely as a result of a compromised computer belonging to an auditor of the company_"
+| https://blockonomi.com/mt-gox-hack/[The History of the Mt Gox Hack: Bitcoin’s Biggest Heist]
 
-https://blockonomi.com/mt-gox-hack/[The History of the Mt Gox Hack: Bitcoin’s Biggest Heist]
+"_Mt. Gox exchange was hacked, most likely as a result of a compromised computer belonging to an auditor of the company_"
 | €460M
 
 
 | 2010-08-15
-| "_an unknown hacker nearly destroyed Bitcoin. The hacker generated 184.467 billion Bitcoin out of thin air. [...] If this hack hadn’t been rectified, Bitcoin would likely have died then and there, which would mean the entire crypto space as we know it would not exist_"
+| https://hackernoon.com/bitcoins-biggest-hack-in-history-184-4-ded46310d4ef[Bitcoin’s Biggest Hack In History: 184.4 Billion Bitcoin from Thin Air]
 
-https://hackernoon.com/bitcoins-biggest-hack-in-history-184-4-ded46310d4ef[Bitcoin’s Biggest Hack In History: 184.4 Billion Bitcoin from Thin Air]
+"_an unknown hacker nearly destroyed Bitcoin. The hacker generated 184.467 billion Bitcoin out of thin air. [...] If this hack hadn’t been rectified, Bitcoin would likely have died then and there, which would mean the entire crypto space as we know it would not exist_"
 | 
 
 
