@@ -16,6 +16,13 @@ https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-3
 | $320M
 
 
+| 2022-02-01
+| "_Hackers tricked a collector of JPEGs depicting apes and mutants (also known as NFTs) to give them control of their digital art, and sold them for more than half a million dollars_"
+
+https://www.vice.com/en/article/5dg5xq/nft-collector-iloveponzi-loses-valuable-ape-nfts-to-hackers-is-upset[NFT Collector 'ILovePonzi' Loses Valuable Ape NFTs to Hackers, Is Upset]
+| $700k
+
+
 | 2022-01-28
 | "_A threat actor has used an exploit to steal approximately $80 million from Qubit Finance, a decentralized finance (DeFi) platform that allows users to loan and speculate on cryptocurrency price variations._"
 
