@@ -44,6 +44,13 @@ https://twitter.com/garybrannan/status/1482866885989478411[We won the auction fo
 | $2.6M
 
 
+| 2020-12-05
+| "_Estimate loss of @BitMartExchange ~$100M_"
+
+https://twitter.com/peckshield/status/1467302620000043013[Here is the list of the transferred-out assets and their amounts]
+| $100M
+
+
 | 2021-07-23
 | "_the platform was exploited for $8 million as the hacker was able to trick the network into thinking they had deposited a range of funds, when they hadn’t, and then somehow getting a refund_"
 
