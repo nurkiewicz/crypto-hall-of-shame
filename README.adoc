@@ -51,6 +51,13 @@ https://twitter.com/peckshield/status/1467302620000043013[Here is the list of th
 | $100M
 
 
+| 2021-08-11
+| "_Once the attack was discovered, Poly Network disclosed the incident to the public and asked for the help of the cryptocurrency community, begging mining platforms and exchanges to track the hacker’s movements and freeze their accounts_"
+
+https://therecord.media/hacker-steals-600-million-from-poly-network-in-biggest-cryptocurrency-hack-ever/[Hacker steals $600 million from Poly Network in biggest ever cryptocurrency hack]
+| $600M
+
+
 | 2021-07-23
 | "_the platform was exploited for $8 million as the hacker was able to trick the network into thinking they had deposited a range of funds, when they hadn’t, and then somehow getting a refund_"
 
