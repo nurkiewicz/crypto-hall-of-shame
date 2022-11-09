@@ -250,3 +250,4 @@ The hacker discovered that if you place several withdrawals all in practically t
 
 * https://www.cnbc.com/2022/08/03/hackers-attack-solana-crypto-stealing-millions.html[Ongoing solana attack targets thousands of crypto wallets, costing users more than $5 million so far]
 * https://roninblockchain.substack.com/p/back-to-building-ronin-security-breach[Back to Building: Ronin Security Breach Postmortem]
+* https://decrypt.co/6824/crypto-capital-follow-up-article[The story of Crypto Capital’s dark past and its deep ties with the crypto industry]
