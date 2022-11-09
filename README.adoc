@@ -245,3 +245,7 @@ The hacker discovered that if you place several withdrawals all in practically t
 
 
 |===
+
+== Other
+
+* https://www.cnbc.com/2022/08/03/hackers-attack-solana-crypto-stealing-millions.html[Ongoing solana attack targets thousands of crypto wallets, costing users more than $5 million so far]
